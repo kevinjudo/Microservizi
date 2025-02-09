@@ -1,0 +1,17 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\bin\Debug\net9.0\BookingService.Repository.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\bin\Debug\net9.0\BookingService.Repository.runtimeconfig.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\bin\Debug\net9.0\BookingService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\bin\Debug\net9.0\BookingService.Repository.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\bin\Debug\net9.0\BookingService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\bin\Debug\net9.0\BookingService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingS.9CB80B37.Up2Date
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\refint\BookingService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\BookingService.Repository.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Repository\obj\Debug\net9.0\ref\BookingService.Repository.dll

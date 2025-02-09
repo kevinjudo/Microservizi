@@ -1,0 +1,11 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\bin\Debug\net8.0\UserService.Shared.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\bin\Debug\net8.0\UserService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\bin\Debug\net8.0\UserService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\UserService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\UserService.Shared.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\UserService.Shared.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\UserService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\UserService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\refint\UserService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\UserService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Shared\obj\Debug\net8.0\ref\UserService.Shared.dll

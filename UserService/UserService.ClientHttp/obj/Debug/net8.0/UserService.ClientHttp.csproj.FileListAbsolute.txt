@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\bin\Debug\net8.0\UserService.ClientHttp.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\bin\Debug\net8.0\UserService.ClientHttp.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\bin\Debug\net8.0\UserService.ClientHttp.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\bin\Debug\net8.0\UserService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\bin\Debug\net8.0\UserService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserService.ClientHttp.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserService.ClientHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserService.ClientHttp.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserService.ClientHttp.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserService.ClientHttp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserServ.818C3093.Up2Date
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserService.ClientHttp.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\refint\UserService.ClientHttp.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\UserService.ClientHttp.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.ClientHttp\obj\Debug\net8.0\ref\UserService.ClientHttp.dll

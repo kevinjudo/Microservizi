@@ -1,0 +1,11 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\bin\Debug\net9.0\BookingService.Shared.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\bin\Debug\net9.0\BookingService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\bin\Debug\net9.0\BookingService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\BookingService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\BookingService.Shared.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\BookingService.Shared.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\BookingService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\BookingService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\refint\BookingService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\BookingService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Shared\obj\Debug\net9.0\ref\BookingService.Shared.dll

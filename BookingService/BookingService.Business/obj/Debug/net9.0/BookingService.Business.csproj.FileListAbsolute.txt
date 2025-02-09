@@ -1,0 +1,17 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\bin\Debug\net9.0\BookingService.Business.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\bin\Debug\net9.0\BookingService.Business.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\bin\Debug\net9.0\BookingService.Business.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\bin\Debug\net9.0\BookingService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\bin\Debug\net9.0\BookingService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\bin\Debug\net9.0\BookingService.Repository.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\bin\Debug\net9.0\BookingService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingService.Business.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingService.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingService.Business.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingService.Business.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingService.Business.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingS.9FCAD78C.Up2Date
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingService.Business.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\refint\BookingService.Business.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\BookingService.Business.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.Business\obj\Debug\net9.0\ref\BookingService.Business.dll

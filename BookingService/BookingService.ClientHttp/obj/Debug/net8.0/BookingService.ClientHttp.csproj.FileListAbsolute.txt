@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\bin\Debug\net8.0\BookingService.ClientHttp.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\bin\Debug\net8.0\BookingService.ClientHttp.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\bin\Debug\net8.0\BookingService.ClientHttp.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\bin\Debug\net8.0\BookingService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\bin\Debug\net8.0\BookingService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingService.ClientHttp.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingService.ClientHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingService.ClientHttp.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingService.ClientHttp.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingService.ClientHttp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingS.9F4E8114.Up2Date
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingService.ClientHttp.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\refint\BookingService.ClientHttp.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\BookingService.ClientHttp.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\BookingService\BookingService.ClientHttp\obj\Debug\net8.0\ref\BookingService.ClientHttp.dll

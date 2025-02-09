@@ -1,0 +1,17 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\bin\Debug\net8.0\UserService.Repository.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\bin\Debug\net8.0\UserService.Repository.runtimeconfig.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\bin\Debug\net8.0\UserService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\bin\Debug\net8.0\UserService.Repository.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\bin\Debug\net8.0\UserService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\bin\Debug\net8.0\UserService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserServ.2EE6921D.Up2Date
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\refint\UserService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\UserService.Repository.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Repository\obj\Debug\net8.0\ref\UserService.Repository.dll

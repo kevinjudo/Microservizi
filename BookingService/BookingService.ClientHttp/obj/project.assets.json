@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BookingService.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BookingService.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookingService.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookingService.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BookingService.Shared/BookingService.Shared.csproj",
+      "msbuildProject": "../BookingService.Shared/BookingService.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BookingService.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kevin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kevin\\OneDrive\\Desktop\\progetto microservizi\\BookingService\\BookingService.ClientHttp\\BookingService.ClientHttp.csproj",
+      "projectName": "BookingService.ClientHttp",
+      "projectPath": "C:\\Users\\kevin\\OneDrive\\Desktop\\progetto microservizi\\BookingService\\BookingService.ClientHttp\\BookingService.ClientHttp.csproj",
+      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kevin\\OneDrive\\Desktop\\progetto microservizi\\BookingService\\BookingService.ClientHttp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\kevin\\OneDrive\\Desktop\\progetto microservizi\\BookingService\\BookingService.Shared\\BookingService.Shared.csproj": {
+              "projectPath": "C:\\Users\\kevin\\OneDrive\\Desktop\\progetto microservizi\\BookingService\\BookingService.Shared\\BookingService.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.12, 8.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.12, 8.0.12]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.12, 8.0.12]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

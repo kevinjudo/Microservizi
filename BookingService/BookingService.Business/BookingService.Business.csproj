@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookingService.Repository\BookingService.Repository.csproj" />
+    <ProjectReference Include="..\BookingService.Shared\BookingService.Shared.csproj" />
+    <ProjectReference Include="..\BookingService.ClientHttp\BookingService.ClientHttp.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

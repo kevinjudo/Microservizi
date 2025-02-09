@@ -1,0 +1,17 @@
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\bin\Debug\net8.0\UserService.Business.deps.json
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\bin\Debug\net8.0\UserService.Business.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\bin\Debug\net8.0\UserService.Business.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\bin\Debug\net8.0\UserService.Repository.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\bin\Debug\net8.0\UserService.Shared.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\bin\Debug\net8.0\UserService.Repository.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\bin\Debug\net8.0\UserService.Shared.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserServ.22E026EB.Up2Date
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\refint\UserService.Business.dll
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.pdb
+C:\Users\kevin\OneDrive\Desktop\progetto microservizi\UserService\UserService.Business\obj\Debug\net8.0\ref\UserService.Business.dll
