@@ -7,15 +7,16 @@ using System.Threading.Tasks;
 
 namespace UserService.Repository
 {
+    // Implementazione del repository per la gestione degli utenti
     public class UserRepository : IUserRepository
     {
         private readonly UserDbContext _context;
-
+        // Costruttore che inietta il contesto del database
         public UserRepository(UserDbContext context)
         {
             _context = context;
         }
-
+        // Vari metodi per creare un nuivo utente, leggerli, modificarli o eliminarli
         public async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
             return await _context.SaveChangesAsync(cancellationToken);
