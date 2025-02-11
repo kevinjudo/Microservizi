@@ -1,5 +1,6 @@
 namespace BookingService.Repository.Model
 {
+    // Classe che rappresenta i dati di una prenotazione
     public class Booking
     {
         public int Id { get; set; } // Identificativo univoco della prenotazione
