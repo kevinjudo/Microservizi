@@ -3,10 +3,6 @@ using UserService.Business.Abstraction; // Importa l'interfaccia della logica di
 using UserService.Business; // Importa l'implementazione della logica di business
 using UserService.Repository; // Importa il livello repository
 using UserService.Repository.Abstraction; // Importa le interfacce dei repository
-//using UserService.ClientHttp; // Importa il client HTTP per le comunicazioni con altri servizi
-//using UserService.ClientHttp.Abstraction; // Importa l'interfaccia del client HTTP
-// using UserService.Kafka; // Importa la gestione di Kafka per la messaggistica
-// using UserService.Kafka.Abstraction; // Importa l'interfaccia per Kafka
 using Microsoft.EntityFrameworkCore; // Importa il supporto per Entity Framework Core (Database ORM)
 
 
@@ -15,9 +11,9 @@ var builder = WebApplication.CreateBuilder(args); // Crea il builder dell'applic
 
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5000); 
+    options.ListenAnyIP(5000); // Metto in ascolto sulla porta 5000 (5001 per BookingService)
 });
-
+// Configura il UserDbContext
 builder.Services.AddDbContext<UserDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("UserDb")));
 
@@ -43,13 +39,10 @@ if (app.Environment.IsDevelopment())
 }
 
 // Abilita la redirezione HTTPS per garantire connessioni sicure
-app.UseHttpsRedirection(); // -> Aggiunge il middleware per reindirizzare le richieste HTTP verso HTTPS
+app.UseHttpsRedirection();
 
-// Abilita l'autorizzazione (in futuro potrebbe includere autenticazione)
-app.UseAuthorization(); // -> Aggiunge il middleware per le funzionalità di autorizzazione
+app.UseAuthorization(); 
 
-app.MapControllers(); // Mappa i controller alle route HTTP
-                     // Aggiunge gli endpoint per le action dei controller: permettono di utilizzare le
-                    // funzionalità di routing necessarie a inoltrare le richieste alle action.
+app.MapControllers(); 
  
 app.Run(); // Avvia l'applicazione
