@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace BookingService.Business.Abstraction
 {
+// Interfaccia per definire la logica di business delle prenotazioni
     public interface IBookingBusiness
     {
         Task CreateBookingAsync(CreateBookingDto dto, CancellationToken cancellationToken = default);
