@@ -14,13 +14,13 @@ namespace UserService.Business
     {
         private readonly IUserRepository _userRepository;
         private readonly ILogger<UserBusiness> _logger;
-
+        // Costruttore che inietta il repository e il logger
         public UserBusiness(IUserRepository userRepository, ILogger<UserBusiness> logger)
         {
             _userRepository = userRepository;
             _logger = logger;
         }
-
+        // Metodo per creare un nuovo utente
         public async Task CreateUserAsync(CreateUserDto dto, CancellationToken cancellationToken = default)
         {
             var user = new User
@@ -35,7 +35,7 @@ namespace UserService.Business
             await _userRepository.CreateUserAsync(user, cancellationToken);
             await _userRepository.SaveChangesAsync(cancellationToken);
         }
-
+        // Metodo per leggere un solo utente
         public async Task<UserDto?> ReadUserAsync(int userId, CancellationToken cancellationToken = default)
         {
             var user = await _userRepository.ReadUserAsync(userId, cancellationToken);
@@ -49,7 +49,7 @@ namespace UserService.Business
                 DateOfBirth = user.DateOfBirth.ToString("yyyy-MM-dd")
             } : null;
         }
-
+        // Metodo per leggere tutti gli utenti
         public async Task<IEnumerable<UserDto>> GetAllUsersAsync(CancellationToken cancellationToken = default)
         {
             var users = await _userRepository.GetAllUsersAsync(cancellationToken);
@@ -63,7 +63,7 @@ namespace UserService.Business
                 DateOfBirth = user.DateOfBirth.ToString("yyyy-MM-dd")
             });
         }
-
+        // Metodo per aggiornare un utente
         public async Task<UserDto?> UpdateUserAsync(UpdateUserDto dto, CancellationToken cancellationToken = default)
         {
             var existingUser = await _userRepository.ReadUserAsync(dto.Id, cancellationToken);
@@ -88,7 +88,7 @@ namespace UserService.Business
                 DateOfBirth = existingUser.DateOfBirth.ToString("yyyy-MM-dd")
             };
         }
-
+        // Metodo per eliminare un utente
         public async Task<bool> DeleteUserAsync(int userId, CancellationToken cancellationToken = default)
         {
             var user = await _userRepository.ReadUserAsync(userId, cancellationToken);
