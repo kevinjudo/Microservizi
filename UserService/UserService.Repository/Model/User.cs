@@ -1,5 +1,6 @@
 namespace UserService.Repository.Model
 {
+    // Classe che rappresenta i dati di una utenza
     public class User
     {
         public int Id { get; set; }
