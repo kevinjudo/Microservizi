@@ -1,8 +1,8 @@
-using BookingService.Business.Abstraction; // Importa l'interfaccia della logica di business
-using BookingService.Business; // Importa l'implementazione della logica di business
+using BookingService.Business.Abstraction; // Importa l'interfaccia della business
+using BookingService.Business; // Importa l'implementazione della business
 using BookingService.Repository; // Importa il livello repository
-using BookingService.Repository.Abstraction; // Importa le interfacce dei repository
-using Microsoft.EntityFrameworkCore; // Importa il supporto per Entity Framework Core (Database ORM)
+using BookingService.Repository.Abstraction; // Importa le interfacce del repository
+using Microsoft.EntityFrameworkCore; // Importa il supporto per Entity Framework Core (DB ORM)
 using BookingService.ClientHttp;
 using BookingService.ClientHttp.Abstraction;
 
@@ -11,28 +11,28 @@ var builder = WebApplication.CreateBuilder(args); // Crea il builder dell'applic
 
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5001); // Cambia la porta in 5001 per evitare conflitti con UserService
+    options.ListenAnyIP(5001); // metto in ascolto sulla porta 5001 (5000 per UserService)
 });
 
-// Configura il DbContext per BookingService
+// Configura il BookingDbContext
 builder.Services.AddDbContext<BookingDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("BookingDb")));
 
-// Registra i repository e la logica di business
+// Registra i repository e la business
 builder.Services.AddScoped<IBookingRepository, BookingRepository>();
 builder.Services.AddScoped<IBookingBusiness, BookingBusiness>();
-
+//Configura la comunicazione ClientHttp
 builder.Services.AddHttpClient<IClientHttp, ClientHttp>(client =>
 {
-    client.BaseAddress = new Uri("http://userservice:5000"); // URL del UserService
+    client.BaseAddress = new Uri("http://userservice:5000"); // URL per comunicare con UserService
 });
 
 // Aggiunge il supporto ai controller
 builder.Services.AddControllers();
 
-// Configura Swagger per la documentazione delle API
+// Abilita l'API Explorer per individuare gli endpoint esposti nell'applicazione.
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(); // Abilita Swagger per generare la documentazione interattiva delle API.
 
 var app = builder.Build(); // Costruisce l'applicazione
 
@@ -46,9 +46,9 @@ if (app.Environment.IsDevelopment())
 // Abilita la redirezione HTTPS per garantire connessioni sicure
 app.UseHttpsRedirection();
 
-// Abilita l'autorizzazione (in futuro potrebbe includere autenticazione)
+
 app.UseAuthorization();
 
-app.MapControllers(); // Mappa i controller alle route HTTP
+app.MapControllers(); 
 
-app.Run(); // Avvia l'applicazione
+app.Run(); // Avvio
