@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace UserService.Business.Abstraction
 {
+    // Interfaccia per definire la logica di business delle prenotazioni
     public interface IUserBusiness
     {
         Task CreateUserAsync(CreateUserDto dto, CancellationToken cancellationToken = default);
