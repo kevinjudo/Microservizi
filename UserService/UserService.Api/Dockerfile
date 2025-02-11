@@ -1,9 +1,8 @@
 # Usare l'immagine base .NET per runtime
-# Usare l'immagine base .NET per runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
 EXPOSE 5000
-
+# installazione di alcuni tool di rete
 RUN apt update && apt install -y net-tools curl && rm -rf /var/lib/apt/lists/*
 
 # Usare l'immagine per build
@@ -14,10 +13,10 @@ COPY ["UserService.Business/UserService.Business.csproj", "UserService.Business/
 COPY ["UserService.Repository/UserService.Repository.csproj", "UserService.Repository/"]
 COPY ["UserService.Shared/UserService.Shared.csproj", "UserService.Shared/"]
 COPY ["UserService.ClientHttp/UserService.ClientHttp.csproj", "UserService.ClientHttp/"]
-#COPY ["UserService.Kafka/UserService.Kafka.csproj", "UserService.Kafka/"]
 RUN dotnet restore "UserService.Api/UserService.Api.csproj"
 COPY . .
 WORKDIR "/src/UserService.Api"
+# Ripristina tutte le dipendenze dei progetti copiati
 RUN dotnet build "UserService.Api.csproj" -c Release -o /app/build
 
 # Pubblicare l'app
