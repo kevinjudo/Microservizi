@@ -7,10 +7,12 @@ namespace UserService.Repository
     {
         public UserDbContext(DbContextOptions<UserDbContext> options) : base(options) { }
 
-        public DbSet<User> Users { get; set; }
+        public DbSet<User> Users { get; set; } // Tabella degli utenti
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            // Configurazione della tabella User
             modelBuilder.Entity<User>()
                 .HasKey(u => u.Id); // Imposta Id come chiave primaria
 
@@ -35,7 +37,7 @@ namespace UserService.Repository
 
             modelBuilder.Entity<User>()
                 .Property(u => u.PhoneNumber)
-                .HasMaxLength(20);
+                .HasMaxLength(10);
         }
     }
 }
